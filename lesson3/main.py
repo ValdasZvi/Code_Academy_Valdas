@@ -96,3 +96,4 @@
 # print(my_list)
 # print(max(my_list))
 
+"atnaujinimas"
