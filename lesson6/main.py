@@ -155,3 +155,5 @@
 #     print(f"Rounden number value: {number}")
 # else:
 #     print(f"You have failed enter the number")
+
+"atnaujintas"
